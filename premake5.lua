@@ -1,4 +1,4 @@
-project "physfs-cpp"
+project "physfs++"
 	version = "0.0.0"
 
 	language "C++"
